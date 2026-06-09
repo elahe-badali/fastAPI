@@ -36,17 +36,17 @@ pip install -r requirements.txt
 Set your MLflow credentials:
 
 ```cmd
-set MLFLOW_TRACKING_URI=http://185.50.38.163:33014
-set MLFLOW_TRACKING_USERNAME=student_your_username
-set MLFLOW_TRACKING_PASSWORD=your_mlflow_password
-set STUDENT_USERNAME=student_your_username
-set MLFLOW_EXPERIMENT_NAME=qbc12_hw02_student_your_username
+set MLFLOW_TRACKING_URI=
+set MLFLOW_TRACKING_USERNAME=
+set MLFLOW_TRACKING_PASSWORD=
+set STUDENT_USERNAME=
+set MLFLOW_EXPERIMENT_NAME=
 ```
 
 If auto-selection fails, set your best HW02 run id manually:
 
 ```cmd
-set MLFLOW_RUN_ID=your_hw02_run_id
+set MLFLOW_RUN_ID=
 ```
 
 Run the API:
